@@ -1,0 +1,8 @@
+<root>
+    <item
+        name='com.android.volley.RequestQueue com.android.volley.Request&lt;T&gt; add(com.android.volley.Request&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;false -&gt; null&quot;" />
+        </annotation>
+    </item>
+</root>

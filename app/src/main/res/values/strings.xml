@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recoleccion Inteligente</string>
+
+    <string name="hint_curp">Curp</string>
+    <string name="hint_nombre">Nombre(s)</string>
+    <string name="hint_apellidos">Apellidos</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_municipio">Municipio</string>
+    <string name="hint_password">Password</string>
+
+    <string name="login">Ingesar</string>
+    <string name="sign_up">Registrar</string>
+
+    <string name="welcome">Bienvenido: </string>
+
+    <string name="logout">Cerrar sesión</string>
+    <string name="title_activity_main2">Recolección Inteligente</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Cerrar sesión</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
